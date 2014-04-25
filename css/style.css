@@ -1,4 +1,4 @@
-	
+
 *{
 	font-family:arial;
 }
@@ -15,7 +15,7 @@
 }
 
 .wrapper .todo{
-	border:2px solid black;
+	border:1px solid #C2C2C2;
 	height:500px;
 }
 
